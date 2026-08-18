@@ -1,0 +1,7 @@
+{
+  "name": "Jo'On",
+  "description": "Assistente Virtual Inteligente Jo'On para organização e execução de atividades com SQLite e inteligência Dual Offline/Online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
